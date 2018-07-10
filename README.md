@@ -3,3 +3,19 @@ In this notebook, we'll use Independent Component Analysis to retrieve original 
 
 ## Dataset
 Let's begin by looking at the dataset we have. We have three WAVE files, each of which is a mix, as we've mentioned. If you haven't worked with audio files in python before, that's okay, they basically boil down to being lists of floats.
+
+### Given Recordings :
+
+![Recording 1](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/audio_1.png)
+
+![Recording 2](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/audio_2.png)
+
+![Recording 3](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/audio_3.png)
+
+### Audios separated by Independent Component Analysis(ICA)
+
+![Component 1](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/raw_1.png)
+
+![Component 1](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/raw_2.png)
+
+![Component 1](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/raw_3.png)
