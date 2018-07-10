@@ -19,3 +19,7 @@ Let's begin by looking at the dataset we have. We have three WAVE files, each of
 ![Component 1](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/raw_2.png)
 
 ![Component 1](https://raw.githubusercontent.com/gshashank84/Separating_audios_by_ICA/master/raw_3.png)
+
+## Music :
+* Piano - The Carnival of the Animals - XIII. The Swan (Solo piano version). Performer: Markus Staab
+* Cello - Cello Suite no. 3 in C, BWV 1009 - I. Prelude. Performer: European Archive
